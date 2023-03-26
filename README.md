@@ -1,5 +1,5 @@
 # 
-THIS IS A COLLABORATION PROJECT BETWEEN OLUWADMILOLA AND OPEYEMI
+THIS IS A COLLABORATION PROJECT BETWEEN OLUWADAMILOLA AND OPEYEMI
 
 # Monty Interpreter
 
@@ -116,7 +116,4 @@ All files were compiled on Ubuntu 14.04 LTS.
 All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -Werror -Wextra and -pedantic`.
 
 ## Styling
-All files have been written in the Betty Style.
-
-## Authors
-**Yonas Leykun** 
+All files have been written in the Betty Style
